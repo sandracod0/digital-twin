@@ -36,7 +36,7 @@ Digitaltwin/
 ### 1. Clone the project
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/digital-twin.git
+git clone https://github.com/sandracod0/digital-twin.git
 cd digital-twin
 ```
 
